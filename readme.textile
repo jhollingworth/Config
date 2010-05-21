@@ -1,6 +1,6 @@
 h1. Config
 
-Allows strongly typed configuration and validation of data 
+Allows strongly typed configuration and validation of data using Castle's Windsor
 
 h1. Example
 
