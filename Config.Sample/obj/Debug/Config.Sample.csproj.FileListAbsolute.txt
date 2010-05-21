@@ -1,0 +1,14 @@
+D:\dev\personal\Config\Config.Sample\bin\Debug\Configuration\Example.config
+D:\dev\personal\Config\Config.Sample\bin\Debug\Config.Sample.exe
+D:\dev\personal\Config\Config.Sample\bin\Debug\Config.Sample.pdb
+D:\dev\personal\Config\Config.Sample\bin\Debug\Castle.Core.dll
+D:\dev\personal\Config\Config.Sample\bin\Debug\Castle.DynamicProxy2.dll
+D:\dev\personal\Config\Config.Sample\bin\Debug\Castle.MicroKernel.dll
+D:\dev\personal\Config\Config.Sample\bin\Debug\Castle.Windsor.dll
+D:\dev\personal\Config\Config.Sample\bin\Debug\Config.dll
+D:\dev\personal\Config\Config.Sample\bin\Debug\log4net.dll
+D:\dev\personal\Config\Config.Sample\bin\Debug\Config.pdb
+D:\dev\personal\Config\Config.Sample\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\personal\Config\Config.Sample\obj\Debug\Config.Sample.exe
+D:\dev\personal\Config\Config.Sample\obj\Debug\Config.Sample.pdb
+D:\dev\personal\Config\Config.Sample\bin\Debug\Castle.Components.Validator.dll

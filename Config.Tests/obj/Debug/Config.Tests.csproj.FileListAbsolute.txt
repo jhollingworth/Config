@@ -1,0 +1,15 @@
+D:\dev\personal\Config\Config.Tests\bin\Debug\Config.Tests.dll
+D:\dev\personal\Config\Config.Tests\bin\Debug\Config.Tests.pdb
+D:\dev\personal\Config\Config.Tests\bin\Debug\Castle.Core.dll
+D:\dev\personal\Config\Config.Tests\bin\Debug\Castle.DynamicProxy2.dll
+D:\dev\personal\Config\Config.Tests\bin\Debug\Castle.MicroKernel.dll
+D:\dev\personal\Config\Config.Tests\bin\Debug\Castle.Windsor.dll
+D:\dev\personal\Config\Config.Tests\bin\Debug\Config.dll
+D:\dev\personal\Config\Config.Tests\bin\Debug\Machine.Specifications.dll
+D:\dev\personal\Config\Config.Tests\bin\Debug\Moq.dll
+D:\dev\personal\Config\Config.Tests\bin\Debug\log4net.dll
+D:\dev\personal\Config\Config.Tests\bin\Debug\Config.pdb
+D:\dev\personal\Config\Config.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\personal\Config\Config.Tests\obj\Debug\Config.Tests.dll
+D:\dev\personal\Config\Config.Tests\obj\Debug\Config.Tests.pdb
+D:\dev\personal\Config\Config.Tests\bin\Debug\Castle.Components.Validator.dll
